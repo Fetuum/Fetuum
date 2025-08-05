@@ -25,7 +25,6 @@ I use tools like:
 - **GitHub Copilot**: To help me write smarter, not harder
 - **Canva + AI**: To design visuals for my future projects
 
-## 🛠️ Tools & Skills
 
 ## 🛠️ Tools & Skills
 
