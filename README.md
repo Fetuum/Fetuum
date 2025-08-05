@@ -36,5 +36,8 @@ I use tools like:
 
 ![Fetuum's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+## 🔗 Connect with Me
 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fetuum00@gmail.com )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/fatimah-muhammed-a504192b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 ---
