@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋, I'm Fatimah</h1>
 <h3 align="center">🚀 Tech Explorer | 🌐 AI Enthusiast | 🛡️ Future Cyber Defender</h3>
 
@@ -28,9 +27,14 @@ I use tools like:
 
 ## 🛠️ Tools & Skills
 
+## 🛠️ Tools & Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI%20Tools-FFD700?style=for-the-badge&logo=OpenAI&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
